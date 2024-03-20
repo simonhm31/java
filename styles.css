@@ -1,0 +1,13 @@
+body {
+    margin: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+}
+
+.title {
+    background-color: beige;
+    border: 1px solid black;
+}

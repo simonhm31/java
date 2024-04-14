@@ -3,7 +3,7 @@ body {
     text-align: center;
     width: 70%;
     list-style: inside;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 17px;
 }
 
@@ -16,5 +16,4 @@ body {
     background-color: rgb(167, 228, 208);
     border: 1px solid black;
     margin-top: 1.5rem;
-
 }

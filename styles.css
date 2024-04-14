@@ -1,11 +1,10 @@
 body {
     margin: auto;
-    display: flex;
     text-align: center;
-    justify-content: center;
-    flex-direction: column;
     width: 70%;
     list-style: inside;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
 }
 
 .title {
@@ -14,7 +13,7 @@ body {
 }
 
 .subtitle {
-    background-color: aquamarine;
+    background-color: rgb(167, 228, 208);
     border: 1px solid black;
     margin-top: 1.5rem;
 

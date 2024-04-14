@@ -5,9 +5,17 @@ body {
     justify-content: center;
     flex-direction: column;
     width: 70%;
+    list-style: inside;
 }
 
 .title {
     background-color: beige;
     border: 1px solid black;
+}
+
+.subtitle {
+    background-color: aquamarine;
+    border: 1px solid black;
+    margin-top: 1.5rem;
+
 }
